@@ -4,9 +4,10 @@
 - HackerOne : imzooel (https://hackerone.com/imzooel)
 - Bugcrowd : imzooel (https://bugcrowd.com/imzooel)
 # }
-# 👋 Hi, I'm imzoel
 
-I'm an independent security researcher specializing in web3, blockchain, cryptowallets, and smart contract security. I am passionate about uncovering vulnerabilities, securing decentralized technologies, and contributing to a safer digital ecosystem.
+# 👋 Hi, I'm ZAHID 
+
+a security researcher specializing in web3, blockchain, cryptowallets, and smart contract security. I am passionate about uncovering vulnerabilities, securing decentralized technologies, and contributing to a safer digital ecosystem.
 
 ## 🛡️ What I Do
 
@@ -14,13 +15,6 @@ I'm an independent security researcher specializing in web3, blockchain, cryptow
 - Vulnerability discovery and responsible disclosure
 - Auditing cryptowallets and web3 infrastructure
 - Building and testing security tools for decentralized systems
-
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/imzoel/)
-- [Twitter](https://twitter.com/imzoel)
-- [HackerOne](https://hackerone.com/imzoel)
-- [Bugcrowd](https://bugcrowd.com/imzoel)
 
 ## 📚 Recent Focus
 

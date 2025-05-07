@@ -1,13 +1,13 @@
+# 👋 Hi, I'm ZAHID 
+
+a security researcher enthusiast in web3, blockchain, cryptowallets, and smart contract security. I am passionate about uncovering vulnerabilities, securing decentralized technologies, and contributing to a safer digital ecosystem.
+
 # return {
 - LinkedIn : /imzooel (https://www.linkedin.com/in/imzooel/)
 - Twitter : @imzooel (https://twitter.com/imzooel)
 - HackerOne : imzooel (https://hackerone.com/imzooel)
 - Bugcrowd : imzooel (https://bugcrowd.com/imzooel)
 # }
-
-# 👋 Hi, I'm ZAHID 
-
-a security researcher specializing in web3, blockchain, cryptowallets, and smart contract security. I am passionate about uncovering vulnerabilities, securing decentralized technologies, and contributing to a safer digital ecosystem.
 
 ## 🛡️ What I Do
 

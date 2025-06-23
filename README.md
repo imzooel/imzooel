@@ -3,10 +3,8 @@
 a security researcher enthusiast in web3, blockchain, cryptowallets, and smart contract security. I am passionate about uncovering vulnerabilities, securing decentralized technologies, and contributing to a safer digital ecosystem.
 
 # 🔎 return {
-- LinkedIn : /imzooel (https://www.linkedin.com/in/imzooel/)
-- Twitter : @imzooel (https://twitter.com/imzooel)
-- HackerOne : imzooel (https://hackerone.com/imzooel)
-- Bugcrowd : imzooel (https://bugcrowd.com/imzooel)
+- LinkedIn : /zahidoverflow (https://www.linkedin.com/in/zahidoverflow/)
+- Twitter : @zahidoverflow (https://twitter.com/zahidoverflow)
 # }
 
 ## 🛡️ What I Do

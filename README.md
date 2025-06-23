@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad Zahidul Islam
+# Mohammad Zahidul Islam
 
 a security researcher enthusiast in web3, blockchain, cryptowallets, and smart contract security. I am passionate about uncovering vulnerabilities, securing decentralized technologies, and contributing to a safer digital ecosystem.
 

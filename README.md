@@ -3,7 +3,7 @@
 a security researcher enthusiast in web3, blockchain, cryptowallets, and smart contract security. I am passionate about uncovering vulnerabilities, securing decentralized technologies, and contributing to a safer digital ecosystem.
 
 ## 🔎 return {
-- X         : @zahidoverflow (https://x.com/zahidoverflow)
+- X : @zahidoverflow (https://x.com/zahidoverflow)
 - LinkedIn  : /zahidoverflow (https://www.linkedin.com/in/zahidoverflow/)
 # }
 
